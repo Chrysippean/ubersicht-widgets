@@ -23,4 +23,6 @@ Want your Macbook homescreen to look like mine?
   <img src="https://raw.githubusercontent.com/Chrysippean/ubersicht-widgets/master/disable.png" width="500" />
 </div>
 
-For more information, visit Übersicht's official website for more widgets and documentation. Enjoy!
+<p align="center">
+  For more information, visit Übersicht's official website for more widgets and documentation. Enjoy!
+</p>

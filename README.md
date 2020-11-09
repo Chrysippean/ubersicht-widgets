@@ -18,6 +18,9 @@ Want your Macbook homescreen to look like this?
 4. Copy the widgets folder from the repository over to Übersicht's app directory:<br />
 `cp -r widgets ~/Library/Application\ Support/Übersicht`
 
-5. You're all set! Disable/Enable any widgets you'd like.
+5. You're all set! Disable/Enable any widgets you'd like.<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/ubersicht-widgets/master/disable.png" width="500" />
+</div>
 
 For more information, visit Ubersicht's official website for more widgets and documentation. Enjoy!

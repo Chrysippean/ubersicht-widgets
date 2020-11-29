@@ -5,8 +5,6 @@ Personal Übersicht setup that I use for macOS. Evangelion-style displays for m
   <img src="https://raw.githubusercontent.com/Chrysippean/ubersicht-widgets/master/screen.png" width="500" />
 </div>
 
-Want your Macbook homescreen to look like mine?
-
 1. Download übersicht from https://tracesof.net/uebersicht/
 
 2. Clone this repository:<br />
